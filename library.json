@@ -1,15 +1,15 @@
 {
     "name": "ESP2Sheet",
-    "version": "1.0.1",
+    "version": "1.0.4",
     "description": "Simple Library for EPS32 to send data to Google Sheet",
     "keywords": "esp32, google sheet, google, sheet, arduino",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/PowerShop/ESP2Sheet.git"
     },
     "authors": [
         {
-            "name": "Kittisak Sakmeang",
+            "name": ".xyz",
             "email": "aaaxcvg@gmail.com"
         }
     ],
